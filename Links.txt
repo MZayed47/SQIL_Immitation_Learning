@@ -1,0 +1,8 @@
+GitHub Link: https://github.com/rddy/sqil-atari
+
+Papers with code: https://paperswithcode.com/paper/sqil-imitation-learning-via-regularized
+
+SQL and SQIL: https://github.com/gouxiangchen/soft-Q-learning
+
+SQL Only: https://github.com/haarnoja/softqlearning
+
